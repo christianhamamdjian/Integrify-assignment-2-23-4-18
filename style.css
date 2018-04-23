@@ -1,0 +1,238 @@
+html {
+}
+body {
+	font-family: sans-serif, Arial;
+	max-width: 961px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.clearfix {
+	clear: both;
+}
+.top {
+	background-color: #eceaeb;
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-bottom: 20px;
+}
+section {
+	margin: 0px;
+	padding: 0px;
+}
+.logo {
+	width: 138px;
+	height: 36px;
+	float: left;
+	background-image: url(images/logo.png);
+	background-repeat: no-repeat;
+}
+.navigation {
+	float: right;
+	margin-right: 34px;
+	margin-left: 100px;
+	max-width: 600px;
+}
+.navigation ul li {
+	display: inline-block;
+	color: #a49a9b;
+	padding:0px;
+	min-width: 85px;
+	font-size: .9em;
+	text-align: center;
+	margin: 5px 20px 15px 20px;
+}
+.navigation ul li a {
+	text-decoration: none;
+	color: #26497a;
+}
+.navigation ul li a:hover {
+	color: #fff;
+}
+.navigation ul li:hover {
+	color: #bf4067;
+}
+.header-block {
+	background-image: url(images/bg-home.jpg);
+	background-position: center;
+	display: block;
+	min-height: 660px;
+}
+.header-block .header-badge {
+	float: right;
+	margin-top: 440px;
+	margin-right: 125px;
+	overflow: hidden;
+	width: 162px;
+	height: 156px;
+	background-image: url(images/05.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	color: #fff;
+	font-size: 1.4em;
+	padding-top: 55px;
+}
+.header-badge p {
+	margin: 0px;
+}
+.header-text h1 {
+	font-size: 1.6em;
+	margin-top: 0px;
+}
+.presentation {
+	background-color: #e9e7e8;
+	padding-top: 30px;
+	padding-left: 40px;
+}
+.presentation h1{
+	color: #e0175c;
+}
+.presentation-text {
+	float: left;
+	max-width: 450px;
+	margin-right: 10px;
+}
+.presentation-text h2 {
+	font-size: 1.2em;
+	margin-bottom: 0px;
+	font-weight: normal;
+}
+.presentation-text p {
+	font-size: .9em;
+	line-height: 1.6em;
+	padding-bottom: 30px;
+	margin-bottom: 0;
+}
+.presentation-image {
+	float: right;
+	margin-right: 10px;
+	overflow: hidden;
+	width: 330px;
+	height: 260px;
+	background-image: url(images/yogurt.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.content-block {
+	background-color: #c8be2b;
+	padding: 40px 0px 35px 0px;
+	width: 100%;
+}
+.info-blocks {
+	display: block;
+	max-width:95%;
+	margin: 0 auto;
+}
+.products {
+	background-image: url(images/icons/08.png);
+	background-repeat: no-repeat;
+	width: 40px ;
+	height: 45px;
+	margin: 0 auto;
+}
+.story {
+	background-image: url(images/icons/09.png);
+	background-repeat: no-repeat;
+	width: 80px;
+	height: 45px;
+	margin: 0 auto;
+}
+.flavors {
+	background-image: url(images/icons/06.png);
+	background-repeat: no-repeat;
+	width: 63px;
+	height: 45px;
+	margin: 0 auto;
+}
+.location {
+	background-image: url(images/icons/07.png);
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 45px;
+	margin: 0 auto;
+}
+.content-block a {
+	color: #000;
+	text-align: center;
+}
+.content-blocks {
+	text-align: center;
+	display: inline-block;
+	float: left;
+	width: 24%;
+	margin-bottom: 0px;
+}
+.first-column {
+	text-align: center;
+}
+.second-column {
+	text-align: center;
+}
+.third-column {
+	text-align: center;
+}
+.fourth.column {
+	text-align: center;
+}
+.content-block h3 {
+	font-size: 1.2em;
+	font-weight: normal;
+	margin-bottom: 0px;
+	color: #fff;
+}
+.footer {
+	width: 100%;
+	background-color: #c83762;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.footer .social-icons{
+	display: block;
+	max-width: 25%;
+	margin: 0 auto;
+}
+.social {
+	width: 100%;
+	display: block;
+}
+.facebook {
+	background-image: url(images/icons/01.png);
+	background-repeat: no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin: 10px 15px;
+}
+.twitter {
+	background-image: url(images/icons/04.png);
+	background-repeat: no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin: 10px 15px;
+}
+.googleplus {
+	background-image: url(images/icons/02.png);
+	background-repeat: no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin: 10px 15px;
+}
+.pinterest {
+	background-image: url(images/icons/03.png);
+	background-repeat: no-repeat;
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin: 10px 15px;
+}
+.copyright {
+	color: #fff;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: .8em;
+	width: 100%;
+	display: block;
+}
